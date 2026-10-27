@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./supermarket-poste.png" alt="CPE 010 Course Cover" width="100%">
+</div>
+
 # 🛒 Supermarket Online Ordering System
 
 **Course:** CPE 010 – Data Structures and Algorithms  

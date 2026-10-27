@@ -38,8 +38,6 @@ The system's features depend on the functions implemented in the source code. Th
 - Displaying order summaries
 - Searching for product or order information
 
-*Note: Keep only the features that are actually implemented in your program.*
-
 ## 🧠 Data Structures and Algorithms
 
 The project is intended to demonstrate the use of data structures and algorithms discussed in class. Depending on the final implementation, these may include:

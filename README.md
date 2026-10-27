@@ -23,8 +23,7 @@ This project is developed as part of the requirements for CPE 010 – Data Struc
 
 - **Programming Language:** C++
 - **Development Environment:** Visual Studio Code
-- **Compiler:** g++ (if installed)
-
+  
 ## ✨ System Features
 
 The system's features depend on the functions implemented in the source code. The intended supermarket ordering functions may include:

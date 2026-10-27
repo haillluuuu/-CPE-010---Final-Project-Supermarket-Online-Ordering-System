@@ -47,41 +47,6 @@ The project is intended to demonstrate the use of data structures and algorithms
 - Sorting algorithms for organizing product or order information
 - Other suitable data structures and algorithms required by the system
 
-The final list should match the data structures and algorithms used in the actual source code.
-
-## 💻 Requirements
-
-Before running the program, make sure you have:
-
-- A computer with Windows, Linux, or macOS
-- A C++ compiler, such as g++
-- Visual Studio Code or another C++ development environment (optional)
-
-## 🚀 How to Compile and Run
-
-1. Clone or download this repository.
-2. Open the project folder in Visual Studio Code.
-3. Open the terminal in the project folder.
-4. Compile the source code. If your main file is named `main.cpp`, use:
-
-   ```bash
-   g++ -std=c++17 -O2 main.cpp -o supermarket
-   ```
-
-5. Run the compiled program.
-
-   **Windows PowerShell:**
-   ```powershell
-   .\supermarket.exe
-   ```
-
-   **Linux or macOS:**
-   ```bash
-   ./supermarket
-   ```
-
-**Important:** If the project contains multiple `.cpp` files, include all required source files in the compilation command.
-
 ## 👥 Group Members
 
 1. Adrian Walter Santos
